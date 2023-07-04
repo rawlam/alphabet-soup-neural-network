@@ -1,4 +1,4 @@
-# Neural Network Alphabet Soup Analysis
+# Alphabet Soup - Neural Network Analysis
 
 ## Overview
 
